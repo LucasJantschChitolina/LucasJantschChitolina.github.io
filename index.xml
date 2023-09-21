@@ -8,6 +8,16 @@
     <language>pt-br</language>
     <lastBuildDate>Wed, 20 Sep 2023 21:40:30 -0300</lastBuildDate><atom:link href="https://lucasjantschchitolina.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Second post</title>
+      <link>https://lucasjantschchitolina.github.io/posts/testpost/</link>
+      <pubDate>Wed, 20 Sep 2023 21:40:30 -0300</pubDate>
+      
+      <guid>https://lucasjantschchitolina.github.io/posts/testpost/</guid>
+      <description>Testing again
+Heading 1 Heading 2 Heading 3 </description>
+    </item>
+    
+    <item>
       <title>This is the title</title>
       <link>https://lucasjantschchitolina.github.io/posts/mypost/</link>
       <pubDate>Wed, 20 Sep 2023 21:40:30 -0300</pubDate>
